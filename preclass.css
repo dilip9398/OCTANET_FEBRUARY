@@ -1,0 +1,9 @@
+.beast-gym{
+    background: url(images/logo-removebg-preview.png);
+    max-width: 50rem;
+}
+
+.fa-check-square i{
+    list-style-image: url(https://icons8.com/icon/ZBQJIdqe73bi/checked-checkbox);
+    width: 1rem;
+}
