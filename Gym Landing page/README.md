@@ -1,2 +1,3 @@
-# OCTANET_FEBRUARY
-Web Development projects
+# Gym Landing page
+Used HTMl CSS and JS
+
